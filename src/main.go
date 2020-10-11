@@ -87,6 +87,7 @@ func main() {
 	item3.ViewItem()
 	// Here the first item will get poped from lastViewedItems
 	item4.ViewItem()
+	// Viewing the same item multiple items
 	item4.ViewItem()
 	item4.ViewItem()
 	item4.ViewItem()
